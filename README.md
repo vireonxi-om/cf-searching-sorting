@@ -56,3 +56,5 @@ Solutions by [rheallyc](https://codeforces.com/profile/rheallyc) (Codeforces Mas
 | [Songwriter](https://codeforces.com/problemset/problem/1252/E) | 2200 | greedy, two pointers | C++17 (GCC 7-32) |
 | [Building an Amusement Park](https://codeforces.com/problemset/problem/1575/B) | 2300 | binary search, geometry | C++17 (GCC 7-32) |
 | [Swap Pass](https://codeforces.com/problemset/problem/1508/D) | 3000 | constructive algorithms, geometry, sortings | C++17 (GCC 7-32) |
+
+<!-- maintenance note: Minor README polish pass. (2026-08-19) -->
