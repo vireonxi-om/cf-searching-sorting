@@ -63,3 +63,4 @@ int main() {
     }
     return 0;
 }
+// maintenance note (1): note time complexity in this file — 2026-08-20
