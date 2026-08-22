@@ -36,3 +36,4 @@ int main(){
     while(t--) solve();
     return 0;
 }
+// maintenance note (2): add editorial link comment to this file — 2026-08-22
