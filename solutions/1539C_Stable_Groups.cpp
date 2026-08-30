@@ -34,3 +34,4 @@ int main(){
     printf("%d\n", ans);
 }
 
+// maintenance note (5): add editorial link comment to this file — 2026-08-30
