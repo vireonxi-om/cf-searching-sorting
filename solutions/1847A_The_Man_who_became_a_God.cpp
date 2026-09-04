@@ -64,3 +64,4 @@ int main() {
 	return 0;
 	
 }
+// maintenance note (7): small formatting cleanup on this file — 2026-09-04
