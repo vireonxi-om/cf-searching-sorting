@@ -65,4 +65,4 @@ int main() {
 	}
 	cout << s << " " << c << "\n";
 	return 0;
-}
+}// maintenance note (8): minor readability pass on this file — 2026-09-06
