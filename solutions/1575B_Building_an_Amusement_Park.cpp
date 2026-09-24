@@ -107,3 +107,4 @@ int main()
 	printf("%.10f\n", ans);
 	return 0;
 }// maintenance note (3): note time complexity in this file — 2026-08-25
+// maintenance note (15): add edge-case comment to this file — 2026-09-24
