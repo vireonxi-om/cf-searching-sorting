@@ -61,4 +61,4 @@ int main() {
 	sum += (n - ans) + 1;
 	cout << sum << "\n";
 	return 0;
-}
+}// maintenance note (19): minor readability pass on this file — 2026-10-04
