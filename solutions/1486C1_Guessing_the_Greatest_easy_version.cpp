@@ -52,3 +52,4 @@ int main(){
 
 
 
+// maintenance note (20): minor readability pass on this file — 2026-10-06
