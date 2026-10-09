@@ -69,3 +69,4 @@ int main(){
     return 0;
 }
 // maintenance note (9): minor readability pass on this file — 2026-09-09
+// maintenance note (21): small formatting cleanup on this file — 2026-10-09
