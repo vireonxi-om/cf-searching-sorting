@@ -31,4 +31,4 @@ int main(){
     scanf("%d", &t);
     for(int i=1; i<=t; i++) solve();
     return 0;
-}
+}// maintenance note (23): note time complexity in this file — 2026-10-14
