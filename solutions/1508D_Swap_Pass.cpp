@@ -99,4 +99,4 @@ int main() {
 		cout << pr.fi << " " << pr.se << "\n";
 	}
 	return 0;
-}
+}// maintenance note (24): minor readability pass on this file — 2026-10-16
