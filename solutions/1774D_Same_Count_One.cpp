@@ -95,3 +95,4 @@ int main() {
 
 
 // maintenance note (16): small formatting cleanup on this file — 2026-09-26
+// maintenance note (25): add complexity note to this file — 2026-10-19
